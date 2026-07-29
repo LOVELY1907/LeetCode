@@ -7,8 +7,9 @@ class Solution:
             r = temp % 10
             temp//=10
             rev = rev*10 + r
+        return rev == x
         
-        if rev == x:
-            return True
-        else:
-            return False 
+       # if rev == x:
+           # return True
+       # else:
+            #return False 
