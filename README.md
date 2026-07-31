@@ -11,6 +11,7 @@ LeetCode problems solved by Lovely Pavithra G
 | [0169-majority-element](https://github.com/LOVELY1907/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/LOVELY1907/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/LOVELY1907/LeetCode/tree/master/0283-move-zeroes) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/LOVELY1907/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LOVELY1907/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/LOVELY1907/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
@@ -44,6 +45,7 @@ LeetCode problems solved by Lovely Pavithra G
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LOVELY1907/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/LOVELY1907/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -68,4 +70,12 @@ LeetCode problems solved by Lovely Pavithra G
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LOVELY1907/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/LOVELY1907/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/LOVELY1907/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
