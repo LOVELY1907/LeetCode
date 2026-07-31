@@ -14,6 +14,7 @@ LeetCode problems solved by Lovely Pavithra G
 | [0673-number-of-longest-increasing-subsequence](https://github.com/LOVELY1907/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LOVELY1907/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/LOVELY1907/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1929-concatenation-of-array](https://github.com/LOVELY1907/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ LeetCode problems solved by Lovely Pavithra G
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/LOVELY1907/LeetCode/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/LOVELY1907/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Counting Sort
 |  |
 | ------- |
