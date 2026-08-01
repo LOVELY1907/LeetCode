@@ -7,6 +7,7 @@ LeetCode problems solved by Lovely Pavithra G
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LOVELY1907/LeetCode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/LOVELY1907/LeetCode/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LOVELY1907/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/LOVELY1907/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/LOVELY1907/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -25,6 +26,7 @@ LeetCode problems solved by Lovely Pavithra G
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/LOVELY1907/LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/LOVELY1907/LeetCode/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
@@ -33,6 +35,7 @@ LeetCode problems solved by Lovely Pavithra G
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/LOVELY1907/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/LOVELY1907/LeetCode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LOVELY1907/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
