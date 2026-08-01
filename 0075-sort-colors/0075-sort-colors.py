@@ -3,8 +3,8 @@ class Solution:
         red,white,blue =0,0,0
         for i in range(len(nums)):
             val = nums[i]
-      
-            nums[blue]=2
+
+            nums[blue]=2 
             blue+=1
 
             if val<2:
