@@ -55,6 +55,7 @@ LeetCode problems solved by Lovely Pavithra G
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LOVELY1907/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/LOVELY1907/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
@@ -62,12 +63,14 @@ LeetCode problems solved by Lovely Pavithra G
 | [0412-fizz-buzz](https://github.com/LOVELY1907/LeetCode/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/LOVELY1907/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/LOVELY1907/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1903-largest-odd-number-in-string](https://github.com/LOVELY1907/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/LOVELY1907/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/LOVELY1907/LeetCode/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/LOVELY1907/LeetCode/tree/master/0412-fizz-buzz) |
+| [1903-largest-odd-number-in-string](https://github.com/LOVELY1907/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
