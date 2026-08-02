@@ -92,4 +92,8 @@ LeetCode problems solved by Lovely Pavithra G
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/LOVELY1907/LeetCode/tree/master/1672-richest-customer-wealth) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/LOVELY1907/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
