@@ -8,4 +8,3 @@ class Solution(object):
             if num[i] in {'1', '3', '5', '7', '9'}:
                 return num[:i + 1]
         return ''
-
