@@ -29,6 +29,7 @@ LeetCode problems solved by Lovely Pavithra G
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/LOVELY1907/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/LOVELY1907/LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/LOVELY1907/LeetCode/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
@@ -52,6 +53,7 @@ LeetCode problems solved by Lovely Pavithra G
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/LOVELY1907/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LOVELY1907/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/LOVELY1907/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Greedy
@@ -71,6 +73,7 @@ LeetCode problems solved by Lovely Pavithra G
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/LOVELY1907/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/LOVELY1907/LeetCode/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/LOVELY1907/LeetCode/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/LOVELY1907/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -103,4 +106,8 @@ LeetCode problems solved by Lovely Pavithra G
 | [0176-second-highest-salary](https://github.com/LOVELY1907/LeetCode/tree/master/0176-second-highest-salary) |
 | [0577-employee-bonus](https://github.com/LOVELY1907/LeetCode/tree/master/0577-employee-bonus) |
 | [1517-find-users-with-valid-e-mails](https://github.com/LOVELY1907/LeetCode/tree/master/1517-find-users-with-valid-e-mails) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/LOVELY1907/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
