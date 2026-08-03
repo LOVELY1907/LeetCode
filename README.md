@@ -18,6 +18,7 @@ LeetCode problems solved by Lovely Pavithra G
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/LOVELY1907/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/LOVELY1907/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/LOVELY1907/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/LOVELY1907/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ LeetCode problems solved by Lovely Pavithra G
 | [0058-length-of-last-word](https://github.com/LOVELY1907/LeetCode/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/LOVELY1907/LeetCode/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/LOVELY1907/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/LOVELY1907/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
 | ------- |
