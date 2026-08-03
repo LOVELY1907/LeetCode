@@ -7,6 +7,7 @@ LeetCode problems solved by Lovely Pavithra G
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LOVELY1907/LeetCode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/LOVELY1907/LeetCode/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/LOVELY1907/LeetCode/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LOVELY1907/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/LOVELY1907/LeetCode/tree/master/0169-majority-element) |
@@ -21,6 +22,7 @@ LeetCode problems solved by Lovely Pavithra G
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LOVELY1907/LeetCode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/LOVELY1907/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/LOVELY1907/LeetCode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LOVELY1907/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
