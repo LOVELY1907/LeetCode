@@ -98,4 +98,5 @@ LeetCode problems solved by Lovely Pavithra G
 | [0175-combine-two-tables](https://github.com/LOVELY1907/LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/LOVELY1907/LeetCode/tree/master/0176-second-highest-salary) |
 | [0577-employee-bonus](https://github.com/LOVELY1907/LeetCode/tree/master/0577-employee-bonus) |
+| [1517-find-users-with-valid-e-mails](https://github.com/LOVELY1907/LeetCode/tree/master/1517-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
