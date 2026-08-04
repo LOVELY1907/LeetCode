@@ -19,6 +19,7 @@ LeetCode problems solved by Lovely Pavithra G
 | [1672-richest-customer-wealth](https://github.com/LOVELY1907/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/LOVELY1907/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/LOVELY1907/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3731-find-missing-elements](https://github.com/LOVELY1907/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ LeetCode problems solved by Lovely Pavithra G
 | [0041-first-missing-positive](https://github.com/LOVELY1907/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/LOVELY1907/LeetCode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LOVELY1907/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3731-find-missing-elements](https://github.com/LOVELY1907/LeetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +44,7 @@ LeetCode problems solved by Lovely Pavithra G
 | [0075-sort-colors](https://github.com/LOVELY1907/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/LOVELY1907/LeetCode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LOVELY1907/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3731-find-missing-elements](https://github.com/LOVELY1907/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
