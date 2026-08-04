@@ -24,6 +24,7 @@ LeetCode problems solved by Lovely Pavithra G
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LOVELY1907/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/LOVELY1907/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/LOVELY1907/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/LOVELY1907/LeetCode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LOVELY1907/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -68,6 +69,7 @@ LeetCode problems solved by Lovely Pavithra G
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/LOVELY1907/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/LOVELY1907/LeetCode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/LOVELY1907/LeetCode/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/LOVELY1907/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/LOVELY1907/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -77,6 +79,7 @@ LeetCode problems solved by Lovely Pavithra G
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LOVELY1907/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/LOVELY1907/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/LOVELY1907/LeetCode/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/LOVELY1907/LeetCode/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/LOVELY1907/LeetCode/tree/master/1903-largest-odd-number-in-string) |
