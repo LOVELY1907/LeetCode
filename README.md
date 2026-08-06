@@ -35,6 +35,7 @@ LeetCode problems solved by Lovely Pavithra G
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LOVELY1907/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/LOVELY1907/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/LOVELY1907/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/LOVELY1907/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/LOVELY1907/LeetCode/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
@@ -86,6 +87,7 @@ LeetCode problems solved by Lovely Pavithra G
 | [0012-integer-to-roman](https://github.com/LOVELY1907/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/LOVELY1907/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/LOVELY1907/LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/LOVELY1907/LeetCode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/LOVELY1907/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/LOVELY1907/LeetCode/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/LOVELY1907/LeetCode/tree/master/1903-largest-odd-number-in-string) |
