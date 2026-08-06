@@ -36,6 +36,7 @@ LeetCode problems solved by Lovely Pavithra G
 | [0005-longest-palindromic-substring](https://github.com/LOVELY1907/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/LOVELY1907/LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/LOVELY1907/LeetCode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/LOVELY1907/LeetCode/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -60,6 +61,7 @@ LeetCode problems solved by Lovely Pavithra G
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LOVELY1907/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LOVELY1907/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/LOVELY1907/LeetCode/tree/master/0392-is-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/LOVELY1907/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Greedy
 |  |
@@ -84,6 +86,7 @@ LeetCode problems solved by Lovely Pavithra G
 | [0012-integer-to-roman](https://github.com/LOVELY1907/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/LOVELY1907/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/LOVELY1907/LeetCode/tree/master/0058-length-of-last-word) |
+| [0392-is-subsequence](https://github.com/LOVELY1907/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/LOVELY1907/LeetCode/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/LOVELY1907/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/LOVELY1907/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
