@@ -10,6 +10,7 @@ LeetCode problems solved by Lovely Pavithra G
 | [0041-first-missing-positive](https://github.com/LOVELY1907/LeetCode/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/LOVELY1907/LeetCode/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LOVELY1907/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/LOVELY1907/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/LOVELY1907/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/LOVELY1907/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/LOVELY1907/LeetCode/tree/master/0283-move-zeroes) |
@@ -128,4 +129,8 @@ LeetCode problems solved by Lovely Pavithra G
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LOVELY1907/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/LOVELY1907/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
